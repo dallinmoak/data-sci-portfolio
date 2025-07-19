@@ -1,89 +1,88 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Rand al'Thor's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Rand al'Thor
+
+The Dragon Reborn, Car'a'carn.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="rand@dragonmount.org">rand@dragonmount.org</a>  
+| <a href="https://wot.fandom.com/wiki/Rand_al%27Thor">More information</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+Currently deceased
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Taking a nice peaceful setting and turning it into a mess
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Anchient Prophecy
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`~998 NE`
+**A Farm, Two Rivers, Andor**
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- learned basic literacy and all about being a shepherd
 
-- Sizar
+`999 NE - 1001 NE`
+**Various institutions, Worldwide**
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+- Advanced degree in being the problem
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`999 NE`
+Proclaimed the _Dragon Reborn_, Tier, Tier
 
-Associate, *French Academy of Science*, Paris, France
+`999 NE`
+Proclaimed _He Who Comes with the Dawn_, Alcair Dal, Aiel Waste
 
-
+`1001 NE`
+Awarded the Laural Crown of Ilian, Ilian, Ilian
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`999 NE`
 
-### Journals
+- He wrote a note to his friends when he ran away.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+### Legislation
 
-`1669`
-Lectiones opticæ.
+`999 NE`
 
-etc. etc. etc.
+- Various ammendments to the law of the Nation of Teir, expanding civil rights for peasants and imposing taxes and agressive new foreign aid policy.
 
-### Patents
+### Other Works
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+`-inf NE - 1000 NE`  
+Unwilling collaboration with Lews Therin Telamon (mental co-authorship).
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`998 – 1001 NE`  
+**Mess Maker**, World-wide
 
-- Warden
-- Minted coins
+- Made a mess in **Shienar** and the lands formerly claimed by **Malkier** by confronting two resurrected Forsaken
+- Made a large mess in **Cairhien**, indirectly caused a massive riot and a devastating civil war
+- Made a mess in **Tear** by bringing Aiel into the citadel, fighting ancient evil, and provoking a massive Trolloc invasion
+- Made a mess at **Al'cair Dal** by wrestling with the access key tied to the very powers of creation (permanent weather disruption, massive earthquake, and catastrophic social collapse)
+- Made another mess in **Cairhien** by triggering a foreign invasion and near-genocidal conquest
+- Made a mess in **Caemlyn** by destroying the royal palace and killing Rahvin
+- Made another mess in **Cairhien** by getting the palace there blown up by assassins
+- Made a mess in **Far Madding** by luring several treacherous male channelers into the city with murderous intent, getting arrested, and causing a diplomatic incident
+- Made a mess in **Illian** by invading with his personal army and messily fighting Sammael
+- Made a mess all over **Altara** by conducting a guerrilla magic campaign against the Seanchan military occupation and wrecking diplomatic talks
+- Made a mess near **Tar Valon** by having an existential crisis that nearly destroyed the universe and also caused a bad storm
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`1001 NE`
+**Mess Cleaner**, Andor, the Blight
 
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+- Cleaned up some of the mess by forcing a peace alliance at the **Field of Merrilor**
+- Cleaned up even more of the mess by offering his life to save the world at **Shayol Ghul**

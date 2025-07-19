@@ -1,7 +1,7 @@
 ---
-title: "Client Report - [Insert Project Title]"
-subtitle: "Course DS 250"
-author: "[STUDENT NAME]"
+title: "Fake Data Exploration Project 1"
+subtitle: "exploring baseball stats"
+author: "Dallin Moak"
 format:
   html:
     self-contained: true
@@ -17,12 +17,11 @@ format:
     code-overflow: wrap
     code-copy: hover
     code-tools:
-        source: false
-        toggle: true
-        caption: See code
-execute: 
+      source: false
+      toggle: true
+      caption: See code
+execute:
   warning: false
-    
 ---
 
-### Paste in a template
+### Project 1 content

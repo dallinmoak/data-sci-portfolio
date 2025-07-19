@@ -1,10 +1,18 @@
 ---
-title: "about me"
+title: "Home"
 subtitle: "my data science portfolio"
-# use quarto markdown to 
 ---
 
-# Title 1 Header
-## Title 2 Header
+# Home page
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+This is the home page of the data science portfolio static site, featuring custom static content.
+
+## Code execution
+
+this static site can display the output of executed code:
+
+```{python}
+hello_world = "Hello, World!"
+
+display(hello_world)
+```
