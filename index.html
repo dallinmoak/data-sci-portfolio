@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>about me – Your_Name - Data Science Portfolio</title>
+<title>Home – Dallin Moak - Data Science Portfolio</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,6 +19,41 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -247,7 +282,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Your_Name - Data Science Portfolio</span>
+    <span class="navbar-title">Dallin Moak - Data Science Portfolio</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -273,20 +308,13 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Data Exploration</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./story_telling.html"> 
-<span class="menu-text">Story Telling</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./ml.html"> 
 <span class="menu-text">Machine Learning</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./full_stack.html"> 
-<span class="menu-text">Full Stack</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./competition.html"> 
-<span class="menu-text">Competition</span></a>
+    <span class="nav-link">
+<span class="menu-text">Full Stack</span>
+    </span>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -305,9 +333,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#title-1-header" id="toc-title-1-header" class="nav-link active" data-scroll-target="#title-1-header">Title 1 Header</a>
+  <li><a href="#home-page" id="toc-home-page" class="nav-link active" data-scroll-target="#home-page">Home page</a>
   <ul class="collapse">
-  <li><a href="#title-2-header" id="toc-title-2-header" class="nav-link" data-scroll-target="#title-2-header">Title 2 Header</a></li>
+  <li><a href="#code-execution" id="toc-code-execution" class="nav-link" data-scroll-target="#code-execution">Code execution</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -318,7 +346,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">about me</h1>
+<h1 class="title">Home</h1>
 <p class="subtitle lead">my data science portfolio</p>
 </div>
 
@@ -336,11 +364,20 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="title-1-header" class="level1">
-<h1>Title 1 Header</h1>
-<section id="title-2-header" class="level2">
-<h2 class="anchored" data-anchor-id="title-2-header">Title 2 Header</h2>
-<p><a href="https://quarto.org/docs/authoring/markdown-basics.html#links-images">MarkDown Basics</a></p>
+<section id="home-page" class="level1">
+<h1>Home page</h1>
+<p>This is the home page of the data science portfolio static site, featuring custom static content.</p>
+<section id="code-execution" class="level2">
+<h2 class="anchored" data-anchor-id="code-execution">Code execution</h2>
+<p>this static site can display the output of executed code:</p>
+<div id="f712ceaf" class="cell" data-execution_count="1">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>hello_world <span class="op">=</span> <span class="st">"Hello, World!"</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>display(hello_world)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<pre><code>'Hello, World!'</code></pre>
+</div>
+</div>
 
 
 </section>

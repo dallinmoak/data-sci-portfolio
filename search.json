@@ -2,143 +2,110 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "about me",
+    "title": "Home",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "This is the home page of the data science portfolio static site, featuring custom static content.\n\n\nthis static site can display the output of executed code:\n\nhello_world = \"Hello, World!\"\n\ndisplay(hello_world)\n\n'Hello, World!'"
   },
   {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
-    "title": "about me",
+    "objectID": "index.html#code-execution",
+    "href": "index.html#code-execution",
+    "title": "Home",
     "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "Cleansing_Projects/project3.html",
-    "href": "Cleansing_Projects/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project4.html",
-    "href": "Cleansing_Projects/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 4"
-    ]
+    "text": "this static site can display the output of executed code:\n\nhello_world = \"Hello, World!\"\n\ndisplay(hello_world)\n\n'Hello, World!'"
   },
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
+    "title": "Rand al’Thor’s CV",
     "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "The Dragon Reborn, Car’a’carn.\n\nrand@dragonmount.org\n| More information\n\n\n\nCurrently deceased\n\n\nTaking a nice peaceful setting and turning it into a mess\n\n\n\nAnchient Prophecy\n\n\n\n\n~998 NE A Farm, Two Rivers, Andor\n\nlearned basic literacy and all about being a shepherd\n\n999 NE - 1001 NE Various institutions, Worldwide\n\nAdvanced degree in being the problem\n\n\n\n\n999 NE Proclaimed the Dragon Reborn, Tier, Tier\n999 NE Proclaimed He Who Comes with the Dawn, Alcair Dal, Aiel Waste\n1001 NE Awarded the Laural Crown of Ilian, Ilian, Ilian\n\n\n\n999 NE\n\nHe wrote a note to his friends when he ran away.\n\n\n\n999 NE\n\nVarious ammendments to the law of the Nation of Teir, expanding civil rights for peasants and imposing taxes and agressive new foreign aid policy.\n\n\n\n\n-inf NE - 1000 NE\nUnwilling collaboration with Lews Therin Telamon (mental co-authorship).\n\n\n\n\n998 – 1001 NE\nMess Maker, World-wide\n\nMade a mess in Shienar and the lands formerly claimed by Malkier by confronting two resurrected Forsaken\nMade a large mess in Cairhien, indirectly caused a massive riot and a devastating civil war\nMade a mess in Tear by bringing Aiel into the citadel, fighting ancient evil, and provoking a massive Trolloc invasion\nMade a mess at Al’cair Dal by wrestling with the access key tied to the very powers of creation (permanent weather disruption, massive earthquake, and catastrophic social collapse)\nMade another mess in Cairhien by triggering a foreign invasion and near-genocidal conquest\nMade a mess in Caemlyn by destroying the royal palace and killing Rahvin\nMade another mess in Cairhien by getting the palace there blown up by assassins\nMade a mess in Far Madding by luring several treacherous male channelers into the city with murderous intent, getting arrested, and causing a diplomatic incident\nMade a mess in Illian by invading with his personal army and messily fighting Sammael\nMade a mess all over Altara by conducting a guerrilla magic campaign against the Seanchan military occupation and wrecking diplomatic talks\nMade a mess near Tar Valon by having an existential crisis that nearly destroyed the universe and also caused a bad storm\n\n1001 NE Mess Cleaner, Andor, the Blight\n\nCleaned up some of the mess by forcing a peace alliance at the Field of Merrilor\nCleaned up even more of the mess by offering his life to save the world at Shayol Ghul"
   },
   {
     "objectID": "resume.html#currently",
     "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
+    "title": "Rand al’Thor’s CV",
     "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
+    "text": "Currently deceased\n\n\nTaking a nice peaceful setting and turning it into a mess\n\n\n\nAnchient Prophecy"
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
+    "title": "Rand al’Thor’s CV",
     "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
+    "text": "~998 NE A Farm, Two Rivers, Andor\n\nlearned basic literacy and all about being a shepherd\n\n999 NE - 1001 NE Various institutions, Worldwide\n\nAdvanced degree in being the problem"
   },
   {
     "objectID": "resume.html#awards",
     "href": "resume.html#awards",
-    "title": "Isaac Newtons’s CV",
+    "title": "Rand al’Thor’s CV",
     "section": "",
-    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
+    "text": "999 NE Proclaimed the Dragon Reborn, Tier, Tier\n999 NE Proclaimed He Who Comes with the Dawn, Alcair Dal, Aiel Waste\n1001 NE Awarded the Laural Crown of Ilian, Ilian, Ilian"
   },
   {
     "objectID": "resume.html#publications",
     "href": "resume.html#publications",
-    "title": "Isaac Newtons’s CV",
+    "title": "Rand al’Thor’s CV",
     "section": "",
-    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
+    "text": "999 NE\n\nHe wrote a note to his friends when he ran away.\n\n\n\n999 NE\n\nVarious ammendments to the law of the Nation of Teir, expanding civil rights for peasants and imposing taxes and agressive new foreign aid policy.\n\n\n\n\n-inf NE - 1000 NE\nUnwilling collaboration with Lews Therin Telamon (mental co-authorship)."
   },
   {
     "objectID": "resume.html#occupation",
     "href": "resume.html#occupation",
-    "title": "Isaac Newtons’s CV",
+    "title": "Rand al’Thor’s CV",
     "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "998 – 1001 NE\nMess Maker, World-wide\n\nMade a mess in Shienar and the lands formerly claimed by Malkier by confronting two resurrected Forsaken\nMade a large mess in Cairhien, indirectly caused a massive riot and a devastating civil war\nMade a mess in Tear by bringing Aiel into the citadel, fighting ancient evil, and provoking a massive Trolloc invasion\nMade a mess at Al’cair Dal by wrestling with the access key tied to the very powers of creation (permanent weather disruption, massive earthquake, and catastrophic social collapse)\nMade another mess in Cairhien by triggering a foreign invasion and near-genocidal conquest\nMade a mess in Caemlyn by destroying the royal palace and killing Rahvin\nMade another mess in Cairhien by getting the palace there blown up by assassins\nMade a mess in Far Madding by luring several treacherous male channelers into the city with murderous intent, getting arrested, and causing a diplomatic incident\nMade a mess in Illian by invading with his personal army and messily fighting Sammael\nMade a mess all over Altara by conducting a guerrilla magic campaign against the Seanchan military occupation and wrecking diplomatic talks\nMade a mess near Tar Valon by having an existential crisis that nearly destroyed the universe and also caused a bad storm\n\n1001 NE Mess Cleaner, Andor, the Blight\n\nCleaned up some of the mess by forcing a peace alliance at the Field of Merrilor\nCleaned up even more of the mess by offering his life to save the world at Shayol Ghul"
   },
   {
-    "objectID": "Machine_Learning/project3.html",
-    "href": "Machine_Learning/project3.html",
-    "title": "Client Report - [Insert Project Title]",
+    "objectID": "Machine_Learning/project2.html",
+    "href": "Machine_Learning/project2.html",
+    "title": "Fake ML Project 2",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "Project 2 content\n\n\n\n\n Back to top",
     "crumbs": [
       "Machine Learning",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project4.html",
-    "href": "Machine_Learning/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 4"
+      "Project 2"
     ]
   },
   {
     "objectID": "exploration.html",
     "href": "exploration.html",
-    "title": "about me",
+    "title": "Data Exploration",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "Data Exploration projects\nyou can see ’em in the sidebar\n\n\n\n\n Back to top",
     "crumbs": [
       "Data Exploration"
     ]
   },
   {
-    "objectID": "exploration.html#title-2-header",
-    "href": "exploration.html#title-2-header",
-    "title": "about me",
+    "objectID": "ml.html",
+    "href": "ml.html",
+    "title": "Machine Learning Projects",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "Title 1 Header\nProjects where I trained a bot to do things\n\n\n\n\n Back to top",
     "crumbs": [
-      "Data Exploration"
+      "Machine Learning"
     ]
   },
   {
-    "objectID": "Competition/project3.html",
-    "href": "Competition/project3.html",
-    "title": "Client Report - [Insert Project Title]",
+    "objectID": "Cleansing_Exploration/project1.html",
+    "href": "Cleansing_Exploration/project1.html",
+    "title": "Fake Data Exploration Project 1",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "Project 1 content\n\n\n\n\n Back to top",
     "crumbs": [
-      "Competition",
-      "Project 3"
+      "Data Exploration",
+      "Project 1"
     ]
   },
   {
-    "objectID": "Competition/project4.html",
-    "href": "Competition/project4.html",
-    "title": "Client Report - [Insert Project Title]",
+    "objectID": "Cleansing_Exploration/project2.html",
+    "href": "Cleansing_Exploration/project2.html",
+    "title": "Data Exploration Project 2",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "Project 2 contents\n\n\n\n\n Back to top",
     "crumbs": [
-      "Competition",
-      "Project 4"
+      "Data Exploration",
+      "Project 2"
     ]
   },
   {
@@ -162,327 +129,36 @@
     ]
   },
   {
-    "objectID": "ml.html",
-    "href": "ml.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
-    ]
-  },
-  {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
-    ]
-  },
-  {
-    "objectID": "competition.html",
-    "href": "competition.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Competition"
-    ]
-  },
-  {
-    "objectID": "competition.html#title-2-header",
-    "href": "competition.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Competition"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Exploration/project3.html",
-    "href": "Cleansing_Exploration/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project4.html",
-    "href": "Cleansing_Exploration/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Full_Stack/project5.html",
-    "href": "Full_Stack/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project2.html",
-    "href": "Full_Stack/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project1.html",
-    "href": "Full_Stack/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project3.html",
-    "href": "Story_Telling/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project4.html",
-    "href": "Story_Telling/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project1.html",
-    "href": "Story_Telling/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project2.html",
-    "href": "Story_Telling/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project5.html",
-    "href": "Story_Telling/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project4.html",
-    "href": "Full_Stack/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project3.html",
-    "href": "Full_Stack/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Exploration/project1.html",
-    "href": "Cleansing_Exploration/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project2.html",
-    "href": "Cleansing_Exploration/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project5.html",
-    "href": "Cleansing_Exploration/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "story_telling.html",
-    "href": "story_telling.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "story_telling.html#title-2-header",
-    "href": "story_telling.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "full_stack.html",
-    "href": "full_stack.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Full Stack"
-    ]
-  },
-  {
-    "objectID": "full_stack.html#title-2-header",
-    "href": "full_stack.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Full Stack"
-    ]
-  },
-  {
-    "objectID": "Competition/project1.html",
-    "href": "Competition/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Competition/project2.html",
-    "href": "Competition/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Competition/project5.html",
-    "href": "Competition/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 5"
-    ]
-  },
-  {
     "objectID": "Machine_Learning/project1.html",
     "href": "Machine_Learning/project1.html",
-    "title": "Client Report - [Insert Project Title]",
+    "title": "Fake ML Project 1",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "Project 1 content\n\n\n\n\n Back to top",
     "crumbs": [
       "Machine Learning",
       "Project 1"
     ]
   },
   {
-    "objectID": "Machine_Learning/project2.html",
-    "href": "Machine_Learning/project2.html",
-    "title": "Client Report - [Insert Project Title]",
+    "objectID": "Machine_Learning/project3.html",
+    "href": "Machine_Learning/project3.html",
+    "title": "Fake ML Project 3",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "Project 3 content\n\n\n\n\n Back to top",
     "crumbs": [
       "Machine Learning",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project5.html",
-    "href": "Machine_Learning/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 5"
+      "Project 3"
     ]
   },
   {
     "objectID": "Cleansing_Projects/project1.html",
     "href": "Cleansing_Projects/project1.html",
-    "title": "Client Report - [Insert Project Title]",
+    "title": "Fake Cleansing Project 1",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "Project 1\n\n\n\n\n Back to top",
     "crumbs": [
       "Data Cleansing",
       "Project 1"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project2.html",
-    "href": "Cleansing_Projects/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project5.html",
-    "href": "Cleansing_Projects/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 5"
     ]
   }
 ]
