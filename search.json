@@ -1,17 +1,87 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
+    "objectID": "exploration.html",
+    "href": "exploration.html",
+    "title": "Data Exploration",
     "section": "",
-    "text": "This is the home page of the data science portfolio static site, featuring custom static content.\n\n\nthis static site can display the output of executed code:\n\nhello_world = \"Hello, World!\"\n\ndisplay(hello_world)\n\n'Hello, World!'"
+    "text": "Data Exploration projects\nyou can see ’em in the sidebar\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Exploration"
+    ]
   },
   {
-    "objectID": "index.html#code-execution",
-    "href": "index.html#code-execution",
-    "title": "Home",
+    "objectID": "Machine_Learning/project1.html",
+    "href": "Machine_Learning/project1.html",
+    "title": "Fake ML Project 1",
     "section": "",
-    "text": "this static site can display the output of executed code:\n\nhello_world = \"Hello, World!\"\n\ndisplay(hello_world)\n\n'Hello, World!'"
+    "text": "Project 1 content\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "ml.html",
+    "href": "ml.html",
+    "title": "Machine Learning Projects",
+    "section": "",
+    "text": "Title 1 Header\nProjects where I trained a bot to do things\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html",
+    "href": "Cleansing_Projects/project1.html",
+    "title": "Fake Cleansing Project 1",
+    "section": "",
+    "text": "Project 1\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html",
+    "href": "Cleansing_Exploration/project1.html",
+    "title": "Fake Data Exploration Project 1",
+    "section": "",
+    "text": "Project 1 content\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Exploration",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "cleansing.html",
+    "href": "cleansing.html",
+    "title": "Data Cleansing projects",
+    "section": "",
+    "text": "My projects are about data cleansing and they are here on this page.\n\n\neach project has data and it gets cleansed.",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "cleansing.html#littler-idea",
+    "href": "cleansing.html#littler-idea",
+    "title": "Data Cleansing projects",
+    "section": "",
+    "text": "each project has data and it gets cleansed.",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project2.html",
+    "href": "Cleansing_Exploration/project2.html",
+    "title": "Data Exploration Project 2",
+    "section": "",
+    "text": "Project 2 contents\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Exploration",
+      "Project 2"
+    ]
   },
   {
     "objectID": "resume.html",
@@ -56,6 +126,20 @@
     "text": "998 – 1001 NE\nMess Maker, World-wide\n\nMade a mess in Shienar and the lands formerly claimed by Malkier by confronting two resurrected Forsaken\nMade a large mess in Cairhien, indirectly caused a massive riot and a devastating civil war\nMade a mess in Tear by bringing Aiel into the citadel, fighting ancient evil, and provoking a massive Trolloc invasion\nMade a mess at Al’cair Dal by wrestling with the access key tied to the very powers of creation (permanent weather disruption, massive earthquake, and catastrophic social collapse)\nMade another mess in Cairhien by triggering a foreign invasion and near-genocidal conquest\nMade a mess in Caemlyn by destroying the royal palace and killing Rahvin\nMade another mess in Cairhien by getting the palace there blown up by assassins\nMade a mess in Far Madding by luring several treacherous male channelers into the city with murderous intent, getting arrested, and causing a diplomatic incident\nMade a mess in Illian by invading with his personal army and messily fighting Sammael\nMade a mess all over Altara by conducting a guerrilla magic campaign against the Seanchan military occupation and wrecking diplomatic talks\nMade a mess near Tar Valon by having an existential crisis that nearly destroyed the universe and also caused a bad storm\n\n1001 NE Mess Cleaner, Andor, the Blight\n\nCleaned up some of the mess by forcing a peace alliance at the Field of Merrilor\nCleaned up even more of the mess by offering his life to save the world at Shayol Ghul"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "This is the home page of the data science portfolio static site, featuring custom static content.\n\n\nthis static site can display the output of executed code:\n\nhello_world = \"Hello, World!\"\n\ndisplay(hello_world)\n\n'Hello, World!'"
+  },
+  {
+    "objectID": "index.html#code-execution",
+    "href": "index.html#code-execution",
+    "title": "Home",
+    "section": "",
+    "text": "this static site can display the output of executed code:\n\nhello_world = \"Hello, World!\"\n\ndisplay(hello_world)\n\n'Hello, World!'"
+  },
+  {
     "objectID": "Machine_Learning/project2.html",
     "href": "Machine_Learning/project2.html",
     "title": "Fake ML Project 2",
@@ -67,79 +151,6 @@
     ]
   },
   {
-    "objectID": "exploration.html",
-    "href": "exploration.html",
-    "title": "Data Exploration",
-    "section": "",
-    "text": "Data Exploration projects\nyou can see ’em in the sidebar\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Exploration"
-    ]
-  },
-  {
-    "objectID": "ml.html",
-    "href": "ml.html",
-    "title": "Machine Learning Projects",
-    "section": "",
-    "text": "Title 1 Header\nProjects where I trained a bot to do things\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Exploration/project1.html",
-    "href": "Cleansing_Exploration/project1.html",
-    "title": "Fake Data Exploration Project 1",
-    "section": "",
-    "text": "Project 1 content\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Exploration",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Exploration/project2.html",
-    "href": "Cleansing_Exploration/project2.html",
-    "title": "Data Exploration Project 2",
-    "section": "",
-    "text": "Project 2 contents\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Exploration",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "cleansing.html",
-    "href": "cleansing.html",
-    "title": "Data Cleansing projects",
-    "section": "",
-    "text": "My projects are about data cleansing and they are here on this page.\n\n\neach project has data and it gets cleansed.",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "cleansing.html#littler-idea",
-    "href": "cleansing.html#littler-idea",
-    "title": "Data Cleansing projects",
-    "section": "",
-    "text": "each project has data and it gets cleansed.",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project1.html",
-    "href": "Machine_Learning/project1.html",
-    "title": "Fake ML Project 1",
-    "section": "",
-    "text": "Project 1 content\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 1"
-    ]
-  },
-  {
     "objectID": "Machine_Learning/project3.html",
     "href": "Machine_Learning/project3.html",
     "title": "Fake ML Project 3",
@@ -148,17 +159,6 @@
     "crumbs": [
       "Machine Learning",
       "Project 3"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project1.html",
-    "href": "Cleansing_Projects/project1.html",
-    "title": "Fake Cleansing Project 1",
-    "section": "",
-    "text": "Project 1\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 1"
     ]
   }
 ]

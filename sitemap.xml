@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://dallinmoak.github.io/data-sci-portfolio/index.html</loc>
-    <lastmod>2025-07-19T22:44:20.584Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dallinmoak.github.io/data-sci-portfolio/resume.html</loc>
-    <lastmod>2025-07-19T22:32:40.467Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dallinmoak.github.io/data-sci-portfolio/Machine_Learning/project2.html</loc>
-    <lastmod>2025-07-19T22:39:40.055Z</lastmod>
-  </url>
-  <url>
     <loc>https://dallinmoak.github.io/data-sci-portfolio/exploration.html</loc>
-    <lastmod>2025-07-19T22:36:50.667Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dallinmoak.github.io/data-sci-portfolio/ml.html</loc>
-    <lastmod>2025-07-19T22:37:49.781Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dallinmoak.github.io/data-sci-portfolio/Cleansing_Exploration/project1.html</loc>
-    <lastmod>2025-07-19T22:40:35.664Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dallinmoak.github.io/data-sci-portfolio/Cleansing_Exploration/project2.html</loc>
-    <lastmod>2025-07-19T22:41:43.164Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dallinmoak.github.io/data-sci-portfolio/cleansing.html</loc>
-    <lastmod>2025-07-19T21:24:05.007Z</lastmod>
+    <lastmod>2025-07-20T02:38:30.657Z</lastmod>
   </url>
   <url>
     <loc>https://dallinmoak.github.io/data-sci-portfolio/Machine_Learning/project1.html</loc>
-    <lastmod>2025-07-19T22:38:59.399Z</lastmod>
+    <lastmod>2025-07-20T02:38:30.652Z</lastmod>
   </url>
   <url>
-    <loc>https://dallinmoak.github.io/data-sci-portfolio/Machine_Learning/project3.html</loc>
-    <lastmod>2025-07-19T22:39:59.017Z</lastmod>
+    <loc>https://dallinmoak.github.io/data-sci-portfolio/ml.html</loc>
+    <lastmod>2025-07-20T02:38:30.657Z</lastmod>
   </url>
   <url>
     <loc>https://dallinmoak.github.io/data-sci-portfolio/Cleansing_Projects/project1.html</loc>
-    <lastmod>2025-07-19T21:45:26.191Z</lastmod>
+    <lastmod>2025-07-20T02:38:30.652Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dallinmoak.github.io/data-sci-portfolio/Cleansing_Exploration/project1.html</loc>
+    <lastmod>2025-07-20T02:38:30.652Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dallinmoak.github.io/data-sci-portfolio/cleansing.html</loc>
+    <lastmod>2025-07-20T02:38:30.657Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dallinmoak.github.io/data-sci-portfolio/Cleansing_Exploration/project2.html</loc>
+    <lastmod>2025-07-20T02:38:30.652Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dallinmoak.github.io/data-sci-portfolio/resume.html</loc>
+    <lastmod>2025-07-20T02:38:30.657Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dallinmoak.github.io/data-sci-portfolio/index.html</loc>
+    <lastmod>2025-07-20T02:38:30.657Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dallinmoak.github.io/data-sci-portfolio/Machine_Learning/project2.html</loc>
+    <lastmod>2025-07-20T02:38:30.652Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dallinmoak.github.io/data-sci-portfolio/Machine_Learning/project3.html</loc>
+    <lastmod>2025-07-20T02:38:30.652Z</lastmod>
   </url>
 </urlset>
